@@ -118,6 +118,7 @@ h2{
 }
 .cards{
     display: flex;
+    overflow: hidden;
     justify-content: center;
 }
 .card-item{
